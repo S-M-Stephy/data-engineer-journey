@@ -5,15 +5,11 @@ Welcome to my data engineering learning journey! This repo captures my daily lea
 ## Folder Structure
 
 data-engineer-journey/
-│
-├── day_1_pandas.py # Day 1 - Basic Pandas operations
-│
-├── day_2_etl/ # Day 2 - ETL practice & profiling
-│ ├── day_2_etl_profile_clean.py # Cleaned profiling code
-│ ├── imdb_1000_profile_report.html # Pandas Profiling report
-│
-├── README.md # You're here!
-
+├── day_1_pandas.py                  # Day 1 - Basic Pandas operations
+├── day_2_etl/                       # Day 2 - ETL practice & profiling
+│   ├── day_2_etl_profile_clean.py   # Cleaned profiling code
+│   └── imdb_1000_profile_report.html # Pandas profiling report
+├── README.md                        # You're here!
 
 ---
 
