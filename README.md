@@ -2,14 +2,23 @@
 
 Welcome to my data engineering learning journey! This repo captures my daily learning, practice, and exploration as I build my skills.
 
-## Folder Structure
-
-```data-engineer-journey/\
-├── day_1_pandas.py                    # Day 1 - Basic Pandas operations\
-├── day_2_etl/                         # Day 2 - ETL practice & profiling\
-│   ├── day_2_etl_profile_clean.py     # Cleaned profiling code\
-│   └── imdb_1000_profile_report.html  # Pandas profiling report\
-├── README.md                          # You're here!\
+## Folder Structure 🗂️
+```
+data-engineer-journey/
+│
+├── day_1_pandas.py                      # Day 1 - Basic Pandas operations
+│
+├── day_2_etl/                           # Day 2 - ETL + Profiling
+│   ├── day_2_etl_profile_clean.py       # Cleaned profiling code
+│   ├── imdb_1000.csv                    # Dataset used
+│   ├── imdb_1000_profile_report.html    # Pandas Profiling report
+│
+├── day_3_csv_to_sqlite/                 # Day 3 - CSV to SQLite ETL
+│   ├── book.csv                         # Custom book dataset
+│   ├── etl_books.py                     # Script to load CSV into SQLite
+│   ├── books.db                         # SQLite database
+│
+├── README.md                           # You're here!
 ```
 ---
 
