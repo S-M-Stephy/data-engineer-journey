@@ -31,12 +31,31 @@ Also: struggled a bit with installing `pandas-profiling`, handling missing `pip`
 
 ---
 
-## Goals
+## Day 3 📅 — CSV to SQLite ETL
 
-- 🧹 Master ETL processes using Python and Pandas  
-- 📊 Use profiling tools like `pandas-profiling` to explore data  
-- 🧠 Learn from hands-on issues and document everything along the way  
+- 🗂️ Created a `books.csv` file with sample data
+- 📥 Extracted it using `pandas.read_csv`
+- 🧹 Transformed the column names for SQL-friendliness
+- 🧱 Loaded it into a local `books.db` using `sqlite3`
+- 🔍 Queried the DB using Python (and Copilot!)
+
+This was my first full ETL cycle — and I now understand how raw data turns into something queryable 💪
 
 ---
 
-Stay tuned for more debug stories and learning breakthroughs!
+## Goals 🎯
+
+- 🔄 Master real-world ETL pipelines using Python and Pandas  
+- 🗃️ Load and manage data using relational databases like SQLite and PostgreSQL  
+- 📊 Explore and profile datasets with tools like `pandas-profiling` and `ydata-profiling`  
+- 🧠 Strengthen SQL skills (DDL, DML, Joins, Aggregations, Subqueries, and Window functions)  
+- 🧰 Build and automate workflows using tools like Airflow  
+- 🛢️ Understand data warehousing concepts and work with cloud platforms  
+- 🧪 Test, debug, and optimize pipelines like a real data engineer  
+- 📝 Document everything along the way to build a public portfolio
+- 💼 Become confident and job-ready for a backend or data engineering role
+  
+---
+
+Stay tuned for more learning breakthroughs and fun debug moments!
+
