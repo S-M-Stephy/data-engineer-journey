@@ -34,8 +34,6 @@ Also: struggled a bit with installing `pandas-profiling`, handling missing `pip`
 
 This was my first full ETL cycle — and I now understand how raw data turns into something queryable 💪
 
----
-
 ## Day 4 📅 — Movie Ratings Mini SQL Project 🎬
 
 - Started a small real-world project with two CSV files: `movies.csv` and `ratings.csv`
