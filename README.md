@@ -20,7 +20,7 @@ My earliest hands-on work using Python, Pandas, profiling tools, and some beginn
 > It was a personal exploration with many half-done and trial tasks.  
 > It’s not meant to teach or guide others — but I’m keeping it here to track how far I’ve come. 😊
 
-## 🚧 Phase II – Guided Learning (Coming Soon)
+### 🚧 Phase II – Guided Learning (Coming Soon)
 
 This phase follows [Darshil’s Data Engineering Bootcamp] — a structured course I’ve enrolled in.  
 I'll update this repo with learnings, notes, and projects **daily**.
