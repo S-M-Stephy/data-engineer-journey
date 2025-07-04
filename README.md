@@ -52,21 +52,6 @@ This was my first full ETL cycle — and I now understand how raw data turns int
 
 ---
 
-## 📅 Day 4 - Movie Ratings Mini SQL Project 🎬
-
-- Started a small real-world project with two CSV files: `movies.csv` and `ratings.csv`
-- Loaded both into a SQLite database using pandas
-- Wrote my **first fully self-written SQL query** to analyze the data — and it worked! 🥳
-
-### ✅ What I Learned
-- How to design simple relational data (movies + ratings)
-- Writing SQL joins from scratch
-- Real confidence boost — starting to feel like a data engineer!
-
-> Slower day, but proud of the one query I wrote myself 😄
-
----
-
 ## Goals 🎯
 
 - 🔄 Master real-world ETL pipelines using Python and Pandas  
