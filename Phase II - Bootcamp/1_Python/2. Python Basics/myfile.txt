@@ -1,0 +1,4 @@
+This is my text file
+This is the second line
+This is the last line
+Hey I just learned file handling
